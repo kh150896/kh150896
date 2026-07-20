@@ -15,5 +15,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ## 📫 Contact Me
-- Telegram: @
-- Email: your.email@gmail.com
+- Telegram: @hamidov_kamron
+- Email: kh1540451@gmail.com
